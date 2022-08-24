@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JorgenJohansen
 - 👀 I’m interested in Web Development, Gaming and Reading
-- 🌱 I’m currently learning Tailwind CSS, Next JS and Algorithms + Datastructures
-- 💞️ I’m looking to collaborate on Websites and REST APIs
+- 🌱 I’m currently learning Svelte, Laravel, Python and C++, and Algorithms + Datastructures
+- 💞️ I’m looking to collaborate on both dynamic and static websites and REST APIs
 - 📫 How to reach me: www.linkedin.com/in/jorgenbjohansen
 - 👉 Check out my website: https://www.jorgenjohansen.dev/
 <!---
