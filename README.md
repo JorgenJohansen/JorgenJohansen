@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JorgenJohansen
 - 👀 I’m interested in Web Development, Gaming and Reading
-- 🌱 I’m currently learning React and Firebase
+- 🌱 I’m currently learning Laravel.
 - 💞️ I’m looking to collaborate on Web design, User Interfaces.
 - 📫 How to reach me: 
 www.linkedin.com/in/jorgenbjohansen
