@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JorgenJohansen
-- 👀 I’m interested in Web Development, Gaming and Reading
-- 🌱 I’m currently learning Laravel and React Native.
-- 💞️ I’m looking to collaborate on Web design, User Interfaces.
+- 👀 I’m interested in both Frontend and backend development, music and reading.
+- 🌱 I’m currently looking into learning Laravel and Kotlin.
+- 💞️ I’m looking to collaborate on databases, data analytics and some DLSS/Upscaling.
 - 📫 How to reach me: 
 www.linkedin.com/in/jorgenbjohansen
 https://www.facebook.com/jorgen.buholm.johansen/
