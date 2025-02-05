@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JorgenJohansen
 - 👀 I’m interested in both Frontend and backend development, music and reading.
 - 🌱 I’m currently looking into learning Laravel and Kotlin.
-- 💞️ I’m looking to collaborate on databases, data analytics and some DLSS/Upscaling.
+- 💞️ I’m looking to collaborate on web applications.
 - 📫 How to reach me: 
 www.linkedin.com/in/jorgenbjohansen
 https://www.facebook.com/jorgen.buholm.johansen/
